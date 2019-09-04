@@ -1,7 +1,7 @@
 poll:
   question: Who's the most powerful Avenger?
   choices:
-    - Iron Heart
+    - Iron Man
     - Captain America
     - Thor
     - Captain Marvel
